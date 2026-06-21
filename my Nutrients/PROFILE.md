@@ -24,7 +24,7 @@
 | Fish oil | **EPA 1000 mg/softgel** — see dose below |
 | Training schedule | **Flexible** — see `TRAINING-DAY-GUIDE.md` |
 | Red meat | **1–2× per month** (optional — chicken + eggs daily base) |
-| App scope | **Full system** — macros, micros, meals, supplements, weight, photos |
+| App scope | **Skill-based** — weekly diet, supplements, health checkups |
 | Height | 5'10" (178 cm) |
 | Weight | 72 kg → target **~77 kg** (lean bulk) |
 | Build | Lean, muscular |
@@ -62,6 +62,9 @@
 | **WEIGHT** | 3,000 | 170 g | 400 g | 70 g |
 
 See `TRAINING-DAY-GUIDE.md` for flexible weekly planning.
+
+**Active week:** [weeks/week-01/DIET.md](weeks/week-01/DIET.md) · [SUPPLEMENTS.md](weeks/week-01/SUPPLEMENTS.md)  
+**Health:** [health/LOG.md](health/LOG.md)
 
 > **Reality check on +5 kg in 3 months:** ~0.4 kg/week is aggressive but possible with strict training + surplus. Expect a mix of muscle, glycogen, and some water/fat. True **5 kg pure muscle** in 12 weeks is at the upper limit of natural physiology (~0.25–0.5 kg muscle/month for trained individuals). We'll optimize for maximum lean gain.
 

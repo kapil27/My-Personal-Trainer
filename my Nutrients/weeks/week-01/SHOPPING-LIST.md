@@ -169,9 +169,9 @@ Chicken: **1 kg** if you batch-cooked and ran out.
 
 | File | Use |
 |------|-----|
-| `MEAL-PLAN-DRAFT.md` | Daily meal structure |
+| `DIET.md` | This week's meals |
 | `TRAINING-DAY-GUIDE.md` | Rest vs boxing vs weight calories |
-| `SUPPLEMENT-PLAN.md` | Daily supplement timing |
+| `SUPPLEMENTS.md` | This week's supplement timing |
 | `PROFILE.md` | Macro targets |
 
 ---
